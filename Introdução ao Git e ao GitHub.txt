@@ -1,0 +1,66 @@
+Git e GitHub
+
+Git é um software de versionamento de código, que ajuda a monitorar diferentes versões de código.
+
+Beneficios de aprender ambas tecnologias juntas: 
+*Controle de versão
+*Armazenamento em nuvem
+*Trabalho em equipe
+*Melhorar seu código
+*Reconhecimento
+
+Windows:
+-Cd
+-dir 
+-mkdir
+-del/rmdir
+
+Entendendo como o Git finciona
+-Sha1 (Secure Hash algorithm) é um conjunto de funções hash criptográficas projetadas pela NSA.
+É uma forma curta de representar um arquivo
+
+-Objetos fundamentais
+*BLOBS:
+*TREES
+*COMMITS
+-Sistema distribuido Seguro
+-Segurança
+
+Chaves SSH e Tokens
+-Chave SSH: é uma forma de estabelecer uma conexão segura e increptada entre duas máquinas
+
+Primeiros comandos com GIT
+-Iniciar o GIT
+-Iniciar o versionamento
+-Criar um commit
+
+-Git init
+-Git add
+-Git commit
+
+Criando um repositório
+-ls (listar)
+*cd (entrar dentro da pasta)
+*mkdir (nome do arquivo)
+*cd
+*git init
+*ls -a(mostra aqruivos ocultos)
+*git config --global user.email ""
+*git config --global user.name 
+*git add *
+*git commit -m
+
+Adicionamndo um arquivo
+-Markdown: é uma forma de escrever o arquivo HTML
+Abrir o texto adicionando o .md e abrir usando o typora
+
+Ciclo de vida GIT
+GIT INIT - repositório
+ 
+*Servidor-Remote repository
+*Ambiente de desenvolvimento-Working directory , staging area, local repository
+
+>git add nomeArquivo
+>git add *
+>git add .
+>git commit -m "msg"
